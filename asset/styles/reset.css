@@ -1,0 +1,13 @@
+main {
+  padding-top: 54px;
+  background-color: #fafafa;
+}
+
+body,
+p,
+a,
+div {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}

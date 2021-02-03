@@ -1,0 +1,30 @@
+.feed {
+  width: 600px;
+}
+
+.feed-card {
+  border: 1px solid #dbdbdb;
+  border-radius: 3px;
+  width: 100%;
+  position: relative;
+}
+
+.feed-header {
+  display: flex;
+  padding: 13px;
+}
+
+.feed-header .user-image {
+  width: 32px;
+  height: 32px;
+  border-radius: 50px;
+}
+
+.feed-header .user-id {
+  margin-left: 12px;
+}
+
+.feed-img {
+  width: 100%;
+  position: absolute;
+}

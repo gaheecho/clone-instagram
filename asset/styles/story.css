@@ -1,0 +1,12 @@
+.story {
+  background-color: #fff;
+  border: 1px solid #dbdbdb;
+  border-radius: 3px;
+  padding: 16px 0;
+  margin-bottom: 24px;
+}
+
+.story .buttons {
+  height: 84px;
+  overflow-y: hidden;
+}
